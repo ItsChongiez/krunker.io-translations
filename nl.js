@@ -117,22 +117,22 @@ settings.quality.header Prestatie
 settings.quality.updRate Frame Limiet
 settings.quality.rendDst Render Afstand
 settings.quality.res Resolutie
-settings.quality.part Particles
-settings.quality.mapDet Map Details
+settings.quality.part Deeltjes
+settings.quality.mapDet Kaart Detail
 settings.quality.noTex Geen Texturen
-settings.quality.partdist Particle Afstand
-settings.quality.renderdist Render Afstand
+settings.quality.partdist Deeltjes Afstand
+settings.quality.renderdist Renderen Afstand
 settings.quality.reflection Reflectie Kwaliteit
 settings.quality.antiAlias Antialiasing
 settings.quality.shadows Schaduwen
 settings.quality.softShad Zachte Schaduwen
-settings.quality.highResShad High-Res Schaduwen
+settings.quality.highResShad Hoge Resolutie Schaduwen
 settings.quality.shadowsDynamic Dynamische Schaduwen
 settings.quality.trails Kogel Sporen
 settings.quality.yourTrails Eigen Sporen
 settings.quality.mflash Muzzle Flits
-settings.quality.flap Sniper Flap
-settings.quality.lowSpec Low Spec
+settings.quality.flap Sluipschutter Klep
+settings.quality.lowSpec Laag Specificatie
 settings.quality.ambient Omringende Schaduw
 settings.quality.ambientOld Oude Schaduwen (Wanneer Mogelijk)
 settings.quality.textureAnim Textuur Animaties
@@ -142,13 +142,13 @@ settings.quality.weaponShine Wapen Glans
 settings.quality.rendGamma Gamma
 settings.quality.lighting Belichting
 settings.quality.showExplo Toon Explosies
-settings.quality.aspectRatio Aspect Ratio
+settings.quality.aspectRatio Aspectverhoudin
 settings.post.header Nabewerking
 settings.post.post Nabewerking
-settings.post.bloom Bloom
-settings.post.bloomThreshold Bloom Threshold
-settings.post.bloomStrength Bloom Sterkte
-settings.post.bloomRadius Bloom Radius
+settings.post.bloom Bloeien
+settings.post.bloomThreshold Bloom Drempel
+settings.post.bloomStrength Bloeien Sterkte
+settings.post.bloomRadius Bloeien Radius
 settings.post.ssao SSAO
 settings.post.ssaoRadius SSAO Radius
 settings.interface.hitIndToon Hit Indicatoren
@@ -175,7 +175,7 @@ settings.interface.kd Toon K/D Teller
 settings.interface.kills Toon Kill Teller
 settings.interface.streak Toon Streak Teller
 settings.interface.score Toon Score Teller
-settings.interface.spectators Toon Spectator Teller
+settings.interface.spectators Toon Toeschouwer Teller
 settings.interface.speed Toon Bewegingssnelheid
 settings.interface.speedOffX Snelheids X Compensatie
 settings.interface.speedOffY Snelheids Y Compensatie
